@@ -1,5 +1,5 @@
 def main():
-    print("hello world")
-    print("this is a test")
-
+    x = int(input("Enter a number: "))
+    print(x)
+    
 main()
